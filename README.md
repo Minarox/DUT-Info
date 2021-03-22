@@ -1,11 +1,11 @@
 # Messagerie instantanée
 Projet de fin de semestre 4 du DUT Informatique.  
 Création d'une messagerie instantanée permettant l'envoie de messages depuis plusieurs utilisateurs.  
-[Démo du site](https://messagerie.minarox.fr/afficher.php)  
+[Démo du site](https://dut.minarox.fr/messagerie/afficher.php)  
 
 ## Sommaire
-* [Fonctionnalités](https://gitlab.com/dut-informatique/web/messagerie-instantanee#fonctionnalités)
-* [Technologies utilisées](https://gitlab.com/dut-informatique/web/messagerie-instantanee#technologies-utilisées)
+* [Fonctionnalités](https://github.com/dut-informatique/messagerie-instantanee#fonctionnalités)
+* [Technologies utilisées](https://github.com/dut-informatique/messagerie-instantanee#technologies-utilisées)
 
 ## Fonctionnalités
 **Nom d'utilisateur**  
