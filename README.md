@@ -1,11 +1,11 @@
 # Cabinet médical
 Projet de fin de semestre 3 du DUT Informatique.  
 Création d'un site web permettant la consultation, l'enregistrement, la modification et la suppression de données.  
-[Démo du site](https://cabinet.minarox.fr/)  
+[Démo du site](https://dut.minarox.fr/cabinet/)  
 
 ## Sommaire
-* [Fonctionnalités](https://gitlab.com/dut-informatique/web/cabinet-medical#fonctionnalités)
-* [Technologies utilisées](https://gitlab.com/dut-informatique/web/cabinet-medical#technologies-utilisées)
+* [Fonctionnalités](https://github.com/dut-informatique/cabinet-medical#fonctionnalités)
+* [Technologies utilisées](https://github.com/dut-informatique/cabinet-medical#technologies-utilisées)
 
 ## Fonctionnalités
 **Compte utilisateur**  
