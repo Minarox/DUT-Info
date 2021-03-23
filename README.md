@@ -3,8 +3,8 @@ Projet de fin de semestre 4 du DUT Informatique.
 Création d'une application Java avec interface graphique.  
 
 ## Sommaire
-* [Fonctionnalités](https://gitlab.com/dut-informatique/java/paint-v0.1#fonctionnalités)
-* [Fichiers](https://gitlab.com/dut-informatique/java/paint-v0.1#fichiers)
+* [Fonctionnalités](https://github.com/dut-informatique/paint-v0.1#fonctionnalités)
+* [Fichiers](https://github.com/dut-informatique/paint-v0.1#fichiers)
 
 ## Fonctionnalités
 **Zone de dessin**  
@@ -33,6 +33,6 @@ L'utilisateur à la possibilité d'ouvrir une image dans la zone de dessin avec 
 L'utilisateur à aussi la possibilité d'enregistrer le dessin en format PNG ou il souhaite sur son ordinateur.  
 
 ## Fichiers
-* [Application](https://gitlab.com/dut-informatique/java/paint-v0.1/-/blob/master/Application.java)
-* [Vue](https://gitlab.com/dut-informatique/java/paint-v0.1/-/blob/master/VuePaint.java)
-* [Contrôleur](https://gitlab.com/dut-informatique/java/paint-v0.1/-/blob/master/ControleurPaint.java)
+* [Application](https://github.com/dut-informatique/paint-v0.1/blob/main/Application.java)
+* [Vue](https://github.com/dut-informatique/paint-v0.1/blob/main/VuePaint.java)
+* [Contrôleur](https://github.com/dut-informatique/paint-v0.1/blob/main/ControleurPaint.java)
