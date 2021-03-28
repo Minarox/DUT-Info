@@ -1,6 +1,8 @@
 # Paint v0.1
 Projet de fin de semestre 4 du DUT Informatique.  
-Création d'une application Java avec interface graphique.  
+Création d'une application Java avec interface graphique.
+
+![images/homepage.png](images/homepage.png)
 
 ## Sommaire
 * [Fonctionnalités](https://github.com/dut-informatique/paint-v0.1#fonctionnalités)
