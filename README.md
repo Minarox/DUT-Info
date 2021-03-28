@@ -1,6 +1,8 @@
 # Messagerie instantanée
 Projet de fin de semestre 4 du DUT Informatique.  
-Création d'une messagerie instantanée permettant l'envoie de messages depuis plusieurs utilisateurs.  
+Création d'une messagerie instantanée permettant l'envoie de messages depuis plusieurs utilisateurs.
+
+![images/homepage.png](images/homepage.png)  
 [Démo du site](https://dut.minarox.fr/messagerie/afficher.php)  
 
 ## Sommaire
