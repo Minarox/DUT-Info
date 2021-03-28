@@ -53,7 +53,7 @@ public class VuePaint extends JFrame {
         panneau.add(panneauControle);
         // Nouveau dessin
         boutonNouveau = new JButton();
-        boutonNouveau.setIcon(new ImageIcon("src/images/nouveau.png", "Nouveau dessin"));
+        boutonNouveau.setIcon(new ImageIcon("images/nouveau.png", "Nouveau dessin"));
         boutonNouveau.setPreferredSize(dimension);
         boutonNouveau.addActionListener(new ActionListener() {
             @Override
@@ -72,7 +72,7 @@ public class VuePaint extends JFrame {
         panneauControle.add(boutonNouveau);
         // Ouvrir une image
         boutonOuvrir = new JButton();
-        boutonOuvrir.setIcon(new ImageIcon("src/images/ouvrir.png", "Ouvrir un dessin"));
+        boutonOuvrir.setIcon(new ImageIcon("images/ouvrir.png", "Ouvrir un dessin"));
         boutonOuvrir.setPreferredSize(dimension);
         boutonOuvrir.addActionListener(new ActionListener() {
             @Override
@@ -87,7 +87,7 @@ public class VuePaint extends JFrame {
         panneauControle.add(boutonOuvrir);
         // Enregistrer le dessin
         boutonEnregistrer = new JButton();
-        boutonEnregistrer.setIcon(new ImageIcon("src/images/enregistrer.png", "Enregistrer le dessin"));
+        boutonEnregistrer.setIcon(new ImageIcon("images/enregistrer.png", "Enregistrer le dessin"));
         boutonEnregistrer.setPreferredSize(dimension);
         boutonEnregistrer.addActionListener(new ActionListener() {
             @Override
@@ -109,7 +109,7 @@ public class VuePaint extends JFrame {
         panneau.add(panneauFormes);
         // Forme libre
         boutonFormeLibre = new JButton();
-        boutonFormeLibre.setIcon(new ImageIcon("src/images/libre.png", "Dessin libre"));
+        boutonFormeLibre.setIcon(new ImageIcon("images/libre.png", "Dessin libre"));
         boutonFormeLibre.setPreferredSize(dimension);
         boutonFormeLibre.setBackground(selection);
         boutonFormeLibre.addActionListener(new ActionListener() {
@@ -126,7 +126,7 @@ public class VuePaint extends JFrame {
         panneauFormes.add(boutonFormeLibre);
         // Forme ligne horizontale
         boutonFormeLigneX = new JButton();
-        boutonFormeLigneX.setIcon(new ImageIcon("src/images/ligneX.png", "Ligne"));
+        boutonFormeLigneX.setIcon(new ImageIcon("images/ligneX.png", "Ligne"));
         boutonFormeLigneX.setPreferredSize(dimension);
         boutonFormeLigneX.addActionListener(new ActionListener() {
             @Override
@@ -142,7 +142,7 @@ public class VuePaint extends JFrame {
         panneauFormes.add(boutonFormeLigneX);
         // Forme ligne verticale
         boutonFormeLigneY = new JButton();
-        boutonFormeLigneY.setIcon(new ImageIcon("src/images/ligneY.png", "Ligne"));
+        boutonFormeLigneY.setIcon(new ImageIcon("images/ligneY.png", "Ligne"));
         boutonFormeLigneY.setPreferredSize(dimension);
         boutonFormeLigneY.addActionListener(new ActionListener() {
             @Override
@@ -158,7 +158,7 @@ public class VuePaint extends JFrame {
         panneauFormes.add(boutonFormeLigneY);
         // Forme rectangle
         boutonFormeRectangle = new JButton();
-        boutonFormeRectangle.setIcon(new ImageIcon("src/images/rectangle.png", "Rectangle"));
+        boutonFormeRectangle.setIcon(new ImageIcon("images/rectangle.png", "Rectangle"));
         boutonFormeRectangle.setPreferredSize(dimension);
         boutonFormeRectangle.addActionListener(new ActionListener() {
             @Override
@@ -174,7 +174,7 @@ public class VuePaint extends JFrame {
         panneauFormes.add(boutonFormeRectangle);
         // Forme ovale
         boutonFormeOvale = new JButton();
-        boutonFormeOvale.setIcon(new ImageIcon("src/images/cercle.png", "Cercle"));
+        boutonFormeOvale.setIcon(new ImageIcon("images/cercle.png", "Cercle"));
         boutonFormeOvale.setPreferredSize(dimension);
         boutonFormeOvale.addActionListener(new ActionListener() {
             @Override
@@ -204,7 +204,7 @@ public class VuePaint extends JFrame {
         affichageCouleurPinceau.setBackground(Color.black);
         panneauCouleurs.add(affichageCouleurPinceau);
         boutonChoixCouleurPinceau = new JButton();
-        boutonChoixCouleurPinceau.setIcon(new ImageIcon("src/images/couleurs.png", "Couleur du pinceau"));
+        boutonChoixCouleurPinceau.setIcon(new ImageIcon("images/couleurs.png", "Couleur du pinceau"));
         boutonChoixCouleurPinceau.setPreferredSize(dimension);
         boutonChoixCouleurPinceau.addActionListener(new ActionListener() {
             @Override
@@ -231,7 +231,7 @@ public class VuePaint extends JFrame {
         affichageCouleurFond.setBackground(Color.white);
         panneauCouleurs.add(affichageCouleurFond);
         boutonChoixCouleurFond = new JButton();
-        boutonChoixCouleurFond.setIcon(new ImageIcon("src/images/couleurs.png", "Couleur du fond"));
+        boutonChoixCouleurFond.setIcon(new ImageIcon("images/couleurs.png", "Couleur du fond"));
         boutonChoixCouleurFond.setPreferredSize(dimension);
         boutonChoixCouleurFond.addActionListener(new ActionListener() {
             @Override
