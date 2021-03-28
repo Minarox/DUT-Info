@@ -1,6 +1,8 @@
 # Manipulation d'images
 Projet de fin de semestre 3 du DUT Informatique.  
-Création d'un programme en Python permettant de bruiter et filtrer une image avec calcul du SNR.  
+Création d'un programme en Python permettant de bruiter et filtrer une image avec calcul du SNR.
+
+![demo.png](demo.png)
 
 ## Fonctionnalités
 **Sélection des images**  
