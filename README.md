@@ -3,7 +3,7 @@ Projet de fin de semestre 2 du DUT Informatique.
 Création d'un Web-Documentaire sur le thème des couverts.
 
 ![Resources/homepage.png](Resources/homepage.png)
-[Lien du WebDoc](https://dut.minarox.fr/webdoc)
+[Lien du WebDoc](https://dut-informatique.github.io/Web-documentaire/index.html) (Vous devez actualiser une fois la page pour que le webdoc se lance)
 
 ## Sommaire
 * [Fonctionnalités](https://github.com/dut-informatique/webdocumentaire#fonctionnalités)
