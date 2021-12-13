@@ -2,8 +2,7 @@
 Projet de fin de semestre 3 du DUT Informatique.  
 Création d'un site web permettant la consultation, l'enregistrement, la modification et la suppression de données.  
 
-![assets/images/homepage.png](assets/images/homepage.png) 
-[Démo du site](https://dut.minarox.fr/cabinet/)  
+![assets/images/homepage.png](assets/images/homepage.png)
 
 ## Sommaire
 * [Fonctionnalités](https://github.com/dut-informatique/cabinet-medical#fonctionnalités)
