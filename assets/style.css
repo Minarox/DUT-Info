@@ -1,0 +1,176 @@
+/* Menu */
+.Menu {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+#Bouton {
+  float: left;
+}
+
+#Bouton a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 18px;
+  text-decoration: none;
+}
+
+#Bouton a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+
+/* Page */
+body {
+	margin: 0;
+	background-color: #396E00;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+
+/* Petite boite de contenus (formulaire, menus) */
+#petite_boite {
+	width: 700px;
+    margin: 0px auto;
+    margin-top: 5%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2), 0px 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#petite_boite h1{
+	margin: 10px auto;
+    padding-bottom: 10px;
+	text-align: center;
+}
+
+
+/* Grande boite pour tableaux */
+#grande_boite {
+	width: 1400px;
+    margin: 0px auto;
+    margin-top: 5%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2), 0px 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#grande_boite h1{
+	margin: 10px auto;
+    padding-bottom: 10px;
+	text-align: center;
+}
+
+
+/* Boutons */
+button {
+	background-color: #53af57;
+    color: white;
+    padding: 14px 40px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+	background-color: white;
+    color: #53af57;
+    border: 2px solid #53af57;
+	padding: 12px 38px;
+}
+
+#retour {
+	margin-top: 25px;
+	width: 200px;
+}
+
+
+/* Formulaire */
+#formulaire {
+    border-collapse: collapse;
+    width: 700px;
+}
+
+input[type=text], input[type=password], input[type=number], input[type=date], input[type=search], input[type=time], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    background-color: #53af57;
+    color: white;
+    padding: 14px 40px;
+    margin: 12px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type=submit]:hover {
+    background-color: white;
+    color: #53af57;
+    border: 2px solid #53af57;
+	padding: 12px 38px;
+}
+
+
+/* Tableau */
+#tableau {
+	border-collapse: collapse;
+	width: 100%;
+	max-width: 1400px;
+	min-width: 700px;
+	text-align: center;
+}
+
+#tableau, #tableau th, #tableau td {
+	border: 1px solid gray;
+}
+
+#tableau th, #tableau td {
+	height: 24px;
+	padding:4px;
+	vertical-align:middle;
+}
+
+#tableau th {
+	background: #333;
+	font-weight: bold;
+	color: white;
+}
+
+#sous-menu {
+	width: 700px;
+	text-align: center;
+}
+
+#recherche {
+	width: 1400px;
+	text-align: center;
+}
+
+
+/* Icon */
+#icon {
+	padding: 3px 2px;
+	width: 18px;
+	height: 18px;
+}
